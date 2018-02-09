@@ -4,7 +4,7 @@
 ##### 安装
 - 直接npm安装
 ```
-	npm install -g yarn
+npm install -g yarn
 ```
 - 下载安装包安装
 ##### 与NPM命令对照
